@@ -15,7 +15,7 @@
 package ws
 
 import (
-	"github.com/gagliardetto/solana-go"
+	"github.com/sentioxyz/solana-go"
 	"github.com/gagliardetto/solana-go/rpc"
 )
 

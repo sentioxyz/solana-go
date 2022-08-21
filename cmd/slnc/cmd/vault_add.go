@@ -20,7 +20,7 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/gagliardetto/solana-go"
+	"github.com/sentioxyz/solana-go"
 
 	"github.com/gagliardetto/solana-go/cli"
 	"github.com/gagliardetto/solana-go/vault"

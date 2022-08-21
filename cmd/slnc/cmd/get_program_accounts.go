@@ -24,7 +24,7 @@ import (
 
 	"github.com/gagliardetto/solana-go/text"
 
-	"github.com/gagliardetto/solana-go"
+	"github.com/sentioxyz/solana-go"
 
 	"github.com/spf13/cobra"
 )

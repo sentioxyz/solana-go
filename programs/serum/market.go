@@ -20,7 +20,7 @@ package serum
 import (
 	"math/big"
 
-	"github.com/gagliardetto/solana-go"
+	"github.com/sentioxyz/solana-go"
 	"github.com/gagliardetto/solana-go/programs/token"
 )
 

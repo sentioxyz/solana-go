@@ -20,7 +20,7 @@ import (
 	"math/big"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/gagliardetto/solana-go"
+	"github.com/sentioxyz/solana-go"
 	"github.com/gagliardetto/solana-go/rpc"
 )
 

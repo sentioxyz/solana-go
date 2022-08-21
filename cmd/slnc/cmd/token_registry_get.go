@@ -23,7 +23,7 @@ import (
 
 	"github.com/gagliardetto/solana-go/rpc"
 
-	"github.com/gagliardetto/solana-go"
+	"github.com/sentioxyz/solana-go"
 	"github.com/gagliardetto/solana-go/programs/tokenregistry"
 	"github.com/gagliardetto/solana-go/text"
 	"github.com/spf13/cobra"

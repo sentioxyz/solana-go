@@ -163,7 +163,7 @@ import (
 
   "github.com/davecgh/go-spew/spew"
   bin "github.com/gagliardetto/binary"
-  "github.com/gagliardetto/solana-go"
+  "github.com/sentioxyz/solana-go"
   "github.com/gagliardetto/solana-go/programs/system"
   "github.com/gagliardetto/solana-go/rpc"
   "github.com/gagliardetto/solana-go/text"
@@ -502,7 +502,7 @@ import (
   "context"
   "fmt"
 
-  "github.com/gagliardetto/solana-go"
+  "github.com/sentioxyz/solana-go"
   "github.com/gagliardetto/solana-go/rpc"
 )
 
@@ -609,7 +609,7 @@ import (
   "time"
 
   "github.com/davecgh/go-spew/spew"
-  "github.com/gagliardetto/solana-go"
+  "github.com/sentioxyz/solana-go"
   "github.com/gagliardetto/solana-go/programs/system"
   "github.com/gagliardetto/solana-go/rpc"
   confirm "github.com/gagliardetto/solana-go/rpc/sendAndConfirmTransaction"
@@ -815,7 +815,7 @@ import (
 
   "github.com/davecgh/go-spew/spew"
   bin "github.com/gagliardetto/binary"
-  solana "github.com/gagliardetto/solana-go"
+  solana "github.com/sentioxyz/solana-go"
   "github.com/gagliardetto/solana-go/programs/token"
   "github.com/gagliardetto/solana-go/rpc"
 )
@@ -921,7 +921,7 @@ import (
   "math/big"
 
   "github.com/davecgh/go-spew/spew"
-  "github.com/gagliardetto/solana-go"
+  "github.com/sentioxyz/solana-go"
   "github.com/gagliardetto/solana-go/rpc"
 )
 
@@ -959,7 +959,7 @@ import (
   "context"
 
   "github.com/davecgh/go-spew/spew"
-  "github.com/gagliardetto/solana-go"
+  "github.com/sentioxyz/solana-go"
   "github.com/gagliardetto/solana-go/rpc"
 )
 
@@ -1254,7 +1254,7 @@ import (
 
   "github.com/AlekSi/pointer"
   "github.com/davecgh/go-spew/spew"
-  "github.com/gagliardetto/solana-go"
+  "github.com/sentioxyz/solana-go"
   "github.com/gagliardetto/solana-go/rpc"
 )
 
@@ -1393,7 +1393,7 @@ import (
   "context"
 
   "github.com/davecgh/go-spew/spew"
-  "github.com/gagliardetto/solana-go"
+  "github.com/sentioxyz/solana-go"
   "github.com/gagliardetto/solana-go/rpc"
 )
 
@@ -1427,7 +1427,7 @@ import (
   "context"
 
   "github.com/davecgh/go-spew/spew"
-  "github.com/gagliardetto/solana-go"
+  "github.com/sentioxyz/solana-go"
   "github.com/gagliardetto/solana-go/rpc"
 )
 
@@ -1850,7 +1850,7 @@ import (
   "context"
 
   "github.com/davecgh/go-spew/spew"
-  "github.com/gagliardetto/solana-go"
+  "github.com/sentioxyz/solana-go"
   "github.com/gagliardetto/solana-go/rpc"
 )
 
@@ -2020,7 +2020,7 @@ import (
   "context"
 
   "github.com/davecgh/go-spew/spew"
-  "github.com/gagliardetto/solana-go"
+  "github.com/sentioxyz/solana-go"
   "github.com/gagliardetto/solana-go/rpc"
 )
 
@@ -2072,7 +2072,7 @@ import (
   "context"
 
   "github.com/davecgh/go-spew/spew"
-  "github.com/gagliardetto/solana-go"
+  "github.com/sentioxyz/solana-go"
   "github.com/gagliardetto/solana-go/rpc"
 )
 
@@ -2156,7 +2156,7 @@ import (
   "context"
 
   "github.com/davecgh/go-spew/spew"
-  "github.com/gagliardetto/solana-go"
+  "github.com/sentioxyz/solana-go"
   "github.com/gagliardetto/solana-go/rpc"
 )
 
@@ -2187,7 +2187,7 @@ import (
   "context"
 
   "github.com/davecgh/go-spew/spew"
-  "github.com/gagliardetto/solana-go"
+  "github.com/sentioxyz/solana-go"
   "github.com/gagliardetto/solana-go/rpc"
 )
 
@@ -2331,7 +2331,7 @@ import (
   "context"
 
   "github.com/davecgh/go-spew/spew"
-  "github.com/gagliardetto/solana-go"
+  "github.com/sentioxyz/solana-go"
   "github.com/gagliardetto/solana-go/rpc"
 )
 
@@ -2389,7 +2389,7 @@ import (
   "context"
 
   "github.com/davecgh/go-spew/spew"
-  "github.com/gagliardetto/solana-go"
+  "github.com/sentioxyz/solana-go"
   "github.com/gagliardetto/solana-go/rpc"
 )
 
@@ -2419,7 +2419,7 @@ import (
   "context"
 
   "github.com/davecgh/go-spew/spew"
-  "github.com/gagliardetto/solana-go"
+  "github.com/sentioxyz/solana-go"
   "github.com/gagliardetto/solana-go/rpc"
 )
 
@@ -2453,7 +2453,7 @@ import (
 
   "github.com/davecgh/go-spew/spew"
   bin "github.com/gagliardetto/binary"
-  "github.com/gagliardetto/solana-go"
+  "github.com/sentioxyz/solana-go"
   "github.com/gagliardetto/solana-go/programs/token"
   "github.com/gagliardetto/solana-go/rpc"
 )
@@ -2506,7 +2506,7 @@ import (
   "context"
 
   "github.com/davecgh/go-spew/spew"
-  "github.com/gagliardetto/solana-go"
+  "github.com/sentioxyz/solana-go"
   "github.com/gagliardetto/solana-go/rpc"
 )
 
@@ -2536,7 +2536,7 @@ import (
   "context"
 
   "github.com/davecgh/go-spew/spew"
-  "github.com/gagliardetto/solana-go"
+  "github.com/sentioxyz/solana-go"
   "github.com/gagliardetto/solana-go/rpc"
 )
 
@@ -2566,7 +2566,7 @@ import (
   "context"
 
   "github.com/davecgh/go-spew/spew"
-  "github.com/gagliardetto/solana-go"
+  "github.com/sentioxyz/solana-go"
   "github.com/gagliardetto/solana-go/rpc"
 )
 
@@ -2672,7 +2672,7 @@ import (
   "context"
 
   "github.com/davecgh/go-spew/spew"
-  "github.com/gagliardetto/solana-go"
+  "github.com/sentioxyz/solana-go"
   "github.com/gagliardetto/solana-go/rpc"
 )
 
@@ -2702,7 +2702,7 @@ import (
   "context"
   "fmt"
   "github.com/davecgh/go-spew/spew"
-  "github.com/gagliardetto/solana-go"
+  "github.com/sentioxyz/solana-go"
   "github.com/gagliardetto/solana-go/rpc"
 )
 
@@ -2761,7 +2761,7 @@ import (
   "context"
 
   "github.com/davecgh/go-spew/spew"
-  "github.com/gagliardetto/solana-go"
+  "github.com/sentioxyz/solana-go"
   "github.com/gagliardetto/solana-go/rpc"
 )
 
@@ -2816,7 +2816,7 @@ import (
   "context"
 
   "github.com/davecgh/go-spew/spew"
-  "github.com/gagliardetto/solana-go"
+  "github.com/sentioxyz/solana-go"
   "github.com/gagliardetto/solana-go/rpc"
   "github.com/gagliardetto/solana-go/rpc/ws"
 )
@@ -2878,7 +2878,7 @@ import (
   "context"
 
   "github.com/davecgh/go-spew/spew"
-  "github.com/gagliardetto/solana-go"
+  "github.com/sentioxyz/solana-go"
   "github.com/gagliardetto/solana-go/rpc"
   "github.com/gagliardetto/solana-go/rpc/ws"
 )
@@ -2940,7 +2940,7 @@ import (
   "context"
 
   "github.com/davecgh/go-spew/spew"
-  "github.com/gagliardetto/solana-go"
+  "github.com/sentioxyz/solana-go"
   "github.com/gagliardetto/solana-go/rpc"
   "github.com/gagliardetto/solana-go/rpc/ws"
 )
@@ -3027,7 +3027,7 @@ import (
   "context"
 
   "github.com/davecgh/go-spew/spew"
-  "github.com/gagliardetto/solana-go"
+  "github.com/sentioxyz/solana-go"
   "github.com/gagliardetto/solana-go/rpc"
   "github.com/gagliardetto/solana-go/rpc/ws"
 )
