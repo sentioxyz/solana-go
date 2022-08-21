@@ -23,7 +23,7 @@ import (
 	"fmt"
 
 	bin "github.com/gagliardetto/binary"
-	"github.com/sentioxyz/solana-go"
+	"github.com/gagliardetto/solana-go"
 )
 
 type Context struct {
