@@ -1,6 +1,6 @@
 module github.com/sentioxyz/solana-go
 
-go 1.2
+go 1.16
 
 require (
 	github.com/gagliardetto/binary v0.6.1
